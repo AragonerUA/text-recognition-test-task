@@ -1,5 +1,7 @@
 from pathlib import Path
-from paddleocr import PaddleOCR
+
+import pytesseract
+from paddleocr import PaddleOCR, draw_ocr
 import easyocr
 
 
@@ -12,9 +14,11 @@ class OCRModel:
         :return: The recognized text from the image.
         """
         img_path = str(image)
-        reader = easyocr.Reader(['en', 'ch_sim'])
-        text = reader.readtext(img_path)
+        reader_ = easyocr.Reader(['en', 'ch_sim'], detector='DB', recognizer='transformer')
+        text = reader_.readtext(img_path)
+
+        # text = reader.readtext(img_path)
         result_string = ""
         for message in text:
             result_string += message[1] + "\n"
-        return result_string
+        return result_string  # 0.868
