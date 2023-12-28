@@ -1,25 +1,11 @@
-## Please, fork this repo first!
+# Implementation
 
-# Instructions
+I've tried a couple of models:
 
-- Your goal is to implement a model using any python library
-that will recognize the text from the picture as accurate as possible.
+1.1) EasyOCR Base - 0.868
+1.2) EasyOCR Base + MedianBlur - 0.860
+2.1) Pytesseract Base - 0.76
 
-- The dataset contained in `data/public_data` consist of images with English/Chinese texts
-and `info.json` file with all ground truth texts.
+I chose the EasyOCR model.
 
-- You should implement class located in `ocr_model.py`. Feel free to write any code you want,
-but keep in mind that the model should match `OCRModel` interface, so I will be able to easily test it.
-You can check your recognition quality on public data with `main.py` script.
-
-- Your grade would depend on both the accuracy of your model
-and the quality of your code.
-
-  -  To measure your accuracy I will download your fork and 
-run your model on the secret version of dataset (with another, but conceptually similar screenshots).
-
-
-Good luck! And feel free to text me via email if you have any questions:
-
-[aleksandr.fedotov@jetbrains.com](aleksandr.fedotov@jetbrains.com)
-
+Then I decided to fine-tune EasyOCR model for the better quality. Firstly, I generated a synthetic dataset using the next article: https://blog.devgenius.io/generating-a-fine-tuning-dataset-for-an-ocr-engine-3509167bc8a1 (both on Chinese and English). Then I realized the fine-tune using the next article: https://pub.towardsai.net/how-to-fine-tune-easyocr-to-achieve-better-ocr-performance-1540f5076428 and the EasyOCR repository on GitHub: https://github.com/JaidedAI/EasyOCR/tree/master with the instructions. The problem is that I do not have the GPU, so it is nearly impossible to fine-tune the model, but I ran the fine-tune and checked that it works. 
