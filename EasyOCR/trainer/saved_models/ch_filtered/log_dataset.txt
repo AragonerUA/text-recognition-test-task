@@ -1,0 +1,612 @@
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 52170
+num total samples of ch_train_filtered: 52170 x 1.0 (total_data_usage_ratio) = 52170
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 23790
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 26380
+num total samples of ch_train_filtered: 26380 x 1.0 (total_data_usage_ratio) = 26380
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 11950
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 25404
+num total samples of ch_train_filtered: 25404 x 1.0 (total_data_usage_ratio) = 25404
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 11640
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 25404
+num total samples of ch_train_filtered: 25404 x 1.0 (total_data_usage_ratio) = 25404
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 11640
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 25404
+num total samples of ch_train_filtered: 25404 x 1.0 (total_data_usage_ratio) = 25404
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 11640
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 25404
+num total samples of ch_train_filtered: 25404 x 1.0 (total_data_usage_ratio) = 25404
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 11640
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+dataset_root: all_data
+opt.select_data: ['ch_train_filtered']
+opt.batch_ratio: ['1']
+--------------------------------------------------------------------------------
+dataset_root:    all_data	 dataset: ch_train_filtered
+sub-directory:	/ch_train_filtered	 num samples: 25404
+num total samples of ch_train_filtered: 25404 x 1.0 (total_data_usage_ratio) = 25404
+num samples of ch_train_filtered per batch: 32 x 1.0 (batch_ratio) = 32
+--------------------------------------------------------------------------------
+Total_batch_size: 32 = 32
+--------------------------------------------------------------------------------
+dataset_root:    all_data/ch_val	 dataset: /
+sub-directory:	/.	 num samples: 11640
+--------------------------------------------------------------------------------
